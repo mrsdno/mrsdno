@@ -12,5 +12,8 @@
 ## My Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsdno)](https://github.com/anuraghazra/github-readme-stats)
 
+### Watch my contribution graph get eaten by the snake 🐍
+  
+  ![Snake animation](https://github.com/Brainybrian316/mrsdno/blob/output/github-contribution-grid-snake.gif)
   
 ## 📫 How to reach me: ...
